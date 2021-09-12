@@ -1,0 +1,13 @@
+/*---Font-family----*/
+@font-face {
+  font-family: AestheticNotes;
+  src: url("../font/Aesthetic\ Notes.ttf");
+}
+@font-face {
+  font-family: montserrat;
+  src: url("../font/Montserrat-Regular.ttf");
+}
+@font-face {
+  font-family: YouthLine;
+  src: url("../font/YouthLine.ttf");
+}
